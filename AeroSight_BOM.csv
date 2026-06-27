@@ -1,0 +1,49 @@
+Category,Item,Description,Qty,Unit Price,Line Total,Supplier,Link,Designator,Footprint
+Processing,Waveshare ESP32-P4-WIFI6,"WiFi 6 dev board, MIPI-CSI support",1,$24.99,$24.99,Amazon,https://www.amazon.com/gp/product/B0FKH4KK7M,,
+Camera,Arducam OV5647 5MP,5MP CS-mount camera module,1,$25.99,$25.99,Amazon,https://www.amazon.com/gp/product/B012ETE75I,,
+Camera,Raspberry Pi CSI Cable,"15-to-22 pin, 30 cm ribbon",1,$4.99,$4.99,Amazon,https://www.amazon.com/cart,,
+Optics,NPBS Cube,"25 mm 50:50 non-polarizing, 400-700 nm",1,$94.95,$94.95,Labnique,https://labnique.com/products/25mm-beamsplitter-cube-non-polarizing-400-700-nm-broadband-50-50,,
+Optics,Plano-Convex Lens,"50 mm dia, 50 mm focal length",2,$9.99,$19.98,Amazon,https://www.amazon.com/gp/product/B0FKHMTNPM,,
+Optics,Front Surface Mirror,"5.5 in x 8 in, first-surface",1,$12.98,$12.98,Amazon,https://www.amazon.com/gp/product/B0BMJN2LVL,,
+Illumination,White LED,"3W 3535, 6500-7000K",1,$10.29,$10.29,Amazon,https://www.amazon.com/gp/product/B0CL8XPX21,,
+Cooling,30 mm Fan,"5V brushless, sleeve bearing",1,$9.99,$9.99,Amazon,https://www.amazon.com/gp/product/B0792BW2VH,,
+Cooling,Aluminum Heatsink,"20x20x10 mm, passive",1,$7.99,$7.99,Amazon,https://www.amazon.com/gp/product/B0FPCVP3QZ,,
+Thermal,ARCTIC MX-7,"Thermal paste, 4g tube",1,$6.89,$6.89,Amazon,https://www.amazon.com/gp/product/B0FT2TSY47,,
+Mechanical,Hardware Kit,"M3-M6 screws, nuts, washers",1,$13.98,$13.98,Amazon,https://www.amazon.com/gp/product/B0BN297MP5,,
+Electrical,Silicone Wire,"28 AWG, multi-color set",1,$10.82,$10.82,Amazon,https://www.amazon.com/gp/product/B07HGT77R5,,
+Electrical,Rocker Switch,"SPST, panel mount kit",1,$8.99,$8.99,Amazon,https://www.amazon.com/gp/product/B0DLBD4X2B,,
+Audio,Mini Speaker,"3W, 8 ohm",1,$9.99,$9.99,Amazon,https://www.amazon.com/gp/product/B0B4D1BN4F,,
+Assembly,Mini Reflow Hot Plate,"WEP 946D IV, preheater",1,$28.79,$28.79,Amazon,https://www.amazon.com/gp/product/B0FDWNMC71,,
+,,,,,,,,,
+PCB Passives,Ceramic Capacitor,"10 uF, 0504 (1310 metric)",3,TBD,TBD,DigiKey/Mouser,,C1-C3,C_0504_1310Metric
+PCB Passives,Ceramic Capacitor,"22 uF, 0504 (1310 metric)",1,TBD,TBD,DigiKey/Mouser,,C4,C_0504_1310Metric
+PCB Passives,LED,"0805 (2012 metric), status indicator",2,TBD,TBD,DigiKey/Mouser,,D1-D2,LED_0805_2012Metric
+PCB Passives,Schottky Diode,"SS14, SMA package",2,TBD,TBD,DigiKey/Mouser,,D3-D4,D_SMA
+PCB Passives,Inductor,"22 uH, 0805 (2012 metric)",1,TBD,TBD,DigiKey/Mouser,,L1,L_0805_2012Metric
+PCB Passives,Inductor,"68 uH, 0805 (2012 metric)",1,TBD,TBD,DigiKey/Mouser,,L2,L_0805_2012Metric
+PCB Passives,Resistor,"5.1 kOhm, 0603 (1608 metric)",1,TBD,TBD,DigiKey/Mouser,,R1,R_0603_1608Metric
+PCB Passives,Resistor,"1.6 kOhm, 0603 (1608 metric)",1,TBD,TBD,DigiKey/Mouser,,R2,R_0603_1608Metric
+PCB Passives,Resistor,"1 kOhm, 0603 (1608 metric)",2,TBD,TBD,DigiKey/Mouser,,R3-R4,R_0603_1608Metric
+PCB Passives,Resistor,"75 kOhm, 0603 (1608 metric)",1,TBD,TBD,DigiKey/Mouser,,R5,R_0603_1608Metric
+PCB Passives,Resistor,"10 kOhm, 0603 (1608 metric)",1,TBD,TBD,DigiKey/Mouser,,R6,R_0603_1608Metric
+PCB Passives,Resistor,"TBD value, 0603 (1608 metric)",1,TBD,TBD,DigiKey/Mouser,,R7,R_0603_1608Metric
+PCB ICs,Li-Ion Charger,"TP4057, TSOT-23-6",1,TBD,TBD,LCSC/DigiKey,,U1,TSOT-23-6
+PCB ICs,Boost Converter,"MT3608, SOT-23-6",1,TBD,TBD,LCSC/DigiKey,,U2,SOT-23-6
+PCB ICs,LED Driver,"AL8860MP, MSOP-8-1EP",1,TBD,TBD,DigiKey/Mouser,,U3,MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm
+PCB Connectors,Pin Socket,"1x20, 2.54 mm pitch, vertical",2,TBD,TBD,DigiKey/Mouser,,J1-J2,PinSocket_1x20_P2.54mm_Vertical
+PCB Connectors,Pin Header,"1x02, 2.54 mm pitch, vertical",2,TBD,TBD,DigiKey/Mouser,,J3-J4,PinHeader_1x02_P2.54mm_Vertical
+PCB Connectors,Pin Socket,"1x02, 2.00 mm pitch, vertical",1,TBD,TBD,DigiKey/Mouser,,J5,PinSocket_1x02_P2.00mm_Vertical
+PCB Connectors,Pin Socket,"1x02, 2.54 mm pitch, vertical",3,TBD,TBD,DigiKey/Mouser,,J6-J8,PinSocket_1x02_P2.54mm_Vertical
+PCB Connectors,USB-C Receptacle,"Amphenol 12401948E412A, USB 2.0",1,TBD,TBD,DigiKey/Mouser,,J9,USB_C_Receptacle_Amphenol_12401948E412A
+,,,,,,,,,
+Fabrication,PCB,"2-layer, custom design",1,$37.00,$37.00,PCBWay,,,
+Fabrication,3D Printing,"Enclosure parts, SLA/FDM",1,$126.50,$126.50,PCBWay,,,
+Shipping,Amazon Shipping + Tax,Combined estimate,1,$31.40,$31.40,Amazon,,,
+Shipping,Labnique Shipping + Tax,Combined estimate,1,$9.99,$9.99,Labnique,,,
+Shipping,PCBWay Taxes/Tariffs,Estimated import duties,1,$17.50,$17.50,PCBWay,,,
+,,,,,,,,,
+SUBTOTAL,Mechanical / Off-the-Shelf,,,,$291.61,,,,
+SUBTOTAL,PCB Components,,,,TBD,,,,
+SUBTOTAL,Fabrication & Shipping,,,,$222.39,,,,
+,,,,,,,,,
+GRAND TOTAL,,,,,$514.00 + PCB,,,,
