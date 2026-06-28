@@ -6,6 +6,12 @@ AeroSight is a high-fidelity Schlieren imaging device built to make advanced aer
 ![Diagram](https://cdn.discordapp.com/attachments/1354640349103915079/1520223610780909648/CAMERA.png?ex=6a406a11&is=6a3f1891&hm=f3ee9704536a569a4b217f71ae4ef3d47b3bab0203d1968db6bce5911fc5695b&)
 ## How it looks inside
 ![Enclosure](https://cdn.discordapp.com/attachments/1513348059075969145/1520598872425238648/image.png?ex=6a41c78e&is=6a40760e&hm=9ea91b0a0ff12c99c7a3409be4e483fd4b16753a74e4292eee1d3c6234c2e9ec)
+Guide:
+Yellow-Enclosure
+Blue-Lens Holder
+Grey-Cam Holder
+Orange-LED Holder
+Red-BeamSplitter
 ## Why AeroSight?
 * **Cheap where it counts:** Total build cost is about $514.
 * **Modular:** Upgrade optics (lens, NPBS cube) as your needs change.
