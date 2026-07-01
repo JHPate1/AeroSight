@@ -5,7 +5,7 @@
 AeroSight is a high-fidelity Schlieren imaging device built to make advanced aerodynamic and thermodynamic visualization actually accessible. Professional-grade Schlieren setups, the kind NASA uses easily runs past $5,000. AeroSight delivers 1080p visualization for a fraction of that, using a modular optical design and open-source hardware. Swap lenses, swap beam splitters, tweak the software. The whole thing is built for people who want to experiment like real lab equipment.
 ![Diagram](https://cdn.discordapp.com/attachments/1354640349103915079/1520223610780909648/CAMERA.png?ex=6a406a11&is=6a3f1891&hm=f3ee9704536a569a4b217f71ae4ef3d47b3bab0203d1968db6bce5911fc5695b&)
 ## How it looks inside
-![Enclosure](https://cdn.discordapp.com/attachments/1513348059075969145/1520598872425238648/image.png?ex=6a41c78e&is=6a40760e&hm=9ea91b0a0ff12c99c7a3409be4e483fd4b16753a74e4292eee1d3c6234c2e9ec)
+![Enclosure](https://cdn.discordapp.com/attachments/1405359794084384860/1521995819769663498/IMG_5990.jpg?ex=6a46dc90&is=6a458b10&hm=f64a9dafa5158334bd64ba4351d7609b35a9bcab74ab6af44247ff8a5f7a55ab&)
 Guide:
 Yellow-Enclosure
 Blue-Lens Holder
