@@ -3,7 +3,7 @@
 
 ## Overview
 AeroSight is a high-fidelity Schlieren imaging device built to make advanced aerodynamic and thermodynamic visualization actually accessible. Professional-grade Schlieren setups, the kind NASA uses easily runs past $5,000. AeroSight delivers 1080p visualization for a fraction of that, using a modular optical design and open-source hardware. Swap lenses, swap beam splitters, tweak the software. The whole thing is built for people who want to experiment like real lab equipment.
-![Diagram]([https://cdn.discordapp.com/attachments/1354640349103915079/1520223610780909648/CAMERA.png?ex=6a406a11&is=6a3f1891&hm=f3ee9704536a569a4b217f71ae4ef3d47b3bab0203d1968db6bce5911fc5695b&](https://stardance.hackclub.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNDcsInB1ciI6ImJsb2JfaWQifX0=--10f9558c1ec318971b4a3d333b6b1bfe3e9beb70/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTYwMCw5MDBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--5394ecd620f1b8ee9be71be3f37cd22b8a88953c/CAMERA.png))
+![Diagram](https://stardance.hackclub.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUxNDcsInB1ciI6ImJsb2JfaWQifX0=--10f9558c1ec318971b4a3d333b6b1bfe3e9beb70/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTYwMCw5MDBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--5394ecd620f1b8ee9be71be3f37cd22b8a88953c/CAMERA.png)
 ## How it looks inside
 (Lost Media)
 Guide:
